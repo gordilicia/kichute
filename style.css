@@ -9,3 +9,18 @@ body {
     color: white; /* Cor do texto para contraste */
     font-family: Arial, sans-serif;
 }
+
+
+
+footer{
+
+    margin: 0; /* Remove a margem padrão */
+    height: 100vh; /* Faz o corpo ocupar 100% da altura da tela */
+    background-color: #737373;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Cor do texto para contraste */
+    font-family: Arial, sans-serif;
+
+}
